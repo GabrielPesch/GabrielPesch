@@ -13,9 +13,9 @@
 
 Sou um desenvolvedor Front-end Junior.
 
-- 🔭 Atualmente estou estudando desenvolvimento Web na Trybe
-- 🌱 Atualmente estou aprendendo NextJS, Node.js, TypeScript e MongoDB
-- 👯 Estou procurando colaborar em projetos FRONT-END
+- 🔭  Atualmente estou estudando desenvolvimento Web na Trybe
+- 🌱  Estou aprendendo NextJS, Node.js, TypeScript e MongoDB
+- 👯  Procuro colaborar em projetos FRONT-END
 
 ---
 
