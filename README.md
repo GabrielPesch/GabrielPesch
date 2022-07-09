@@ -37,7 +37,7 @@ Sou um desenvolvedor Front-end Junior.
 
 ### :fire: Meus Status :
  
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielpesch&show_icons=true&theme=dracula)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielpesch&show_icons=true&theme=dark)
  
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielpesch&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
