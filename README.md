@@ -2,7 +2,7 @@
     <img src="https://media3.giphy.com/media/5eLDrEaRGHegx2FeF2/giphy.gif?cid=ecf05e47vy7fv2dh0s6hlgy4noqx5c4vj5zny5nwt4khn42w&rid=giphy.gif&ct=s" align="center" style="width: 100%" />
 </div>
 
-### <div align="center">👋 Olá! Eu sou [Seu Nome], desenvolvedor Full Stack.</div>
+### <div align="center">👋 Olá! Eu sou o Pesch, desenvolvedor Full Stack.</div>
 
 - 🔭 Atualmente em busca de oportunidades como desenvolvedor FullStack.
 - 🎓 Concluindo pós-graduação em Java na UTFPR em março de 2024.
